@@ -4,8 +4,45 @@
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+@font-face{
+  font-family:'proxima-nova-light';
+  src:url('/fonts/proxima-nova/light/proxima-nova-light.eot');
+  src:url('/fonts/proxima-nova/light/proxima-nova-light.eot?#iefix') format('embedded-opentype'),url('/fonts/proxima-nova/light/proxima-nova-light.woff2') format('woff2'),url('/fonts/proxima-nova/light/proxima-nova-light.woff') format('woff'),url('/fonts/proxima-nova/light/proxima-nova-light.ttf') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face{
+  font-family:'proxima-nova-regular';
+  src:url('/fonts/proxima-nova/regular/proxima-nova-regular.eot');
+  src:url('/fonts/proxima-nova/regular/proxima-nova-regular.eot?#iefix') format('embedded-opentype'),url('/fonts/proxima-nova/regular/proxima-nova-regular.woff2') format('woff2'),url('/fonts/proxima-nova/regular/proxima-nova-regular.woff') format('woff'),url('/fonts/proxima-nova/regular/proxima-nova-regular.ttf') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face{
+  font-family:'proxima-nova-bold';
+  src:url('/fonts/proxima-nova/bold/proxima-nova-bold.eot');
+  src:url('/fonts/proxima-nova/bold/proxima-nova-bold.eot?#iefix') format('embedded-opentype'),url('/fonts/proxima-nova/bold/proxima-nova-bold.woff2') format('woff2'),url('/fonts/proxima-nova/bold/proxima-nova-bold.woff') format('woff'),url('/fonts/proxima-nova/bold/proxima-nova-bold.ttf') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face{
+  font-family:'proxima-nova-bold-italic';
+  src:url('/fonts/proxima-nova/bold-italic/proxima-nova-bold-italic.eot');
+  src:url('/fonts/proxima-nova/bold-italic/proxima-nova-bold-italic.eot?#iefix') format('embedded-opentype'),url('/fonts/proxima-nova/bold-italic/proxima-nova-bold-italic.woff2') format('woff2'),url('/fonts/proxima-nova/bold-italic/proxima-nova-bold-italic.woff') format('woff'),url('/fonts/proxima-nova/bold-italic/proxima-nova-bold-italic.ttf') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  /*font-family: 'Lora', 'Times New Roman', serif;*/
+  font-family:'proxima-nova-light', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight:normal;
+  -webkit-font-smoothing:antialiased;
+
   font-size: 20px;
   color: #303F4E;
 }
@@ -22,7 +59,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'proxima-nova-light', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -66,7 +103,7 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'proxima-nova-regular', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .navbar-custom .navbar-brand {
@@ -187,7 +224,7 @@ hr.small {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'proxima-nova-regular', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -206,7 +243,7 @@ hr.small {
   display: block;
 }
 .intro-header .post-heading .subheading {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'proxima-nova-regular', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 24px;
   margin: 10px 0 30px;
   font-weight: 600;
@@ -344,7 +381,7 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
 }
 .btn {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'proxima-nova-regular', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -367,7 +404,7 @@ form .row:first-child .floating-label-form-group {
 }
 .pager li > a,
 .pager li > span {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'proxima-nova-regular', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
