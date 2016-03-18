@@ -7,13 +7,16 @@ title: Itexus Company Blog
 # standard jekyll configuration
 
 lsi: false
-permalink: /:title
+#permalink: /:title
 # Since GH pages override this to "true", we test this value to see if we are running locally
 safe: false
 include: [".well-known"]
 gems:
   - jekyll-redirect-from
-  - rdiscount
+  - kramdown
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
 exclude:
 - bin
 - config.rb
