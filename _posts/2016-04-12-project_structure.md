@@ -12,7 +12,7 @@ image: "/img/holy-war-holy-shit.jpg"
 A few years ago discussions about the way of project's sources and files are organized
 were like religious wars in _Java world_.
 
-But what is the matter today? Because even in current _JavaScript era_ I think this topic is still actual and those practices can be applied to projects also based on the new technologies. So, bellow are my notes I made at mentioned time.    
+But what is the matter today? Because even in current _JavaScript era_ I think this topic is still actual and those practices can be applied to projects also based on the new technologies. So, below are my notes I made at mentioned time.    
 
 The are two fundamental ways to organise project's packages: _Package-by-layer_ and _Package-by-feature_.
 
