@@ -84,7 +84,7 @@ common development experiences. There are also some complex issues,
 such as _circular dependencies_ and _where common mechanisms should be placed_,
 developer will have to deal with on the large project.
 
-#### What I should choose?
+#### What should I choose?
 
 Both _package-by-layer_ and _package-by-feature_ have own pros and cons.
 And I will say: "Choose whatever you like and whatever you feel safe with".
