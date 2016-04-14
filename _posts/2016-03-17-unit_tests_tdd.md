@@ -1,8 +1,9 @@
 ---
+author: Sergey P.
 title: "Unit Tests and All those DDs"
 layout: post
 description: "How Unit Tests, TDD and BDD differ from each other and in what cases each techniques can be used."
-redirect_from: ["/2016/03/17/unit_tests_tdd_.html"]
+redirect_from: ["/2016/03/17/unit_tests_tdd.html"]
 image: "/img/tdd_comics.png"
 
 ---

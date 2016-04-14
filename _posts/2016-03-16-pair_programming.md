@@ -1,4 +1,5 @@
 ---
+author: Sergey P.
 title: "What is pair programming good for?"
 layout: post
 description: "Initially Pair Programming was one of the practice of XP (Extreme Programming), but currently it find it's own place in the modern agile programming methodologies."

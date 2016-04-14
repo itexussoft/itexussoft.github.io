@@ -11,6 +11,7 @@ lsi: false
 # Since GH pages override this to "true", we test this value to see if we are running locally
 safe: false
 include: [".well-known"]
+highlighter: pygments
 gems:
   - jekyll-redirect-from
   - kramdown
