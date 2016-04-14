@@ -1,6 +1,6 @@
 ---
 author: Sergey P.
-title: "Project's sources organisation"
+title: "Project's sources structure"
 layout: post
 description: "A few years ago discussions about the way of project's sources and files are organized were like religious wars in Java world. What is the matter?"
 redirect_from: ["/2016/04/12/project_structure.html"]
@@ -14,7 +14,7 @@ were like religious wars in _Java world_.
 
 But what is the matter today? Because even in current _JavaScript era_ I think this topic is still actual and those practices can be applied to projects also based on the new technologies. So, below are my notes I made at mentioned time.    
 
-The are two fundamental ways to organise project's packages: _Package-by-layer_ and _Package-by-feature_.
+The are two fundamental ways to structure project's packages: _Package-by-layer_ and _Package-by-feature_.
 
 #### Package by layer
 
