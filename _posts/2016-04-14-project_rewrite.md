@@ -3,7 +3,7 @@ author: Sergey P.
 title: "Project rewrite"
 layout: post
 description: "Application is slowing down and buggy? The code is a mess, and changes are taking longer and longer? All signs seem to point to the dreaded Big Rewrite."
-redirect_from: ["/2016/03/15/project_rewrite.html"]
+redirect_from: ["/2016/04/14/project_rewrite.html"]
 
 ---
 At least once in his life each developer shouted _"What the fcuk?! It must be rewritten!"_
