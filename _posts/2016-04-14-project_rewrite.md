@@ -10,4 +10,6 @@ At least once in his life each developer shouted _"What the fcuk?! It must be re
 
 But the decision to rewrite shouldn't be taken lightly. Below is the nice video Chad Fowler and Rich Kilmer walk through the pros and cons of Rewrites and give real world examples of Rewrite strategies that work and that fail.
 
-<iframe src="https://player.vimeo.com/video/16285681" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+*Update:* The mentioned video was deleted from Vimeo by some unknown to me reasons. And I had no luck to find it on other resources. But below is the link to the post of another giant of the programmers world. The used words are different but the idea is still the same:
+
+[StranglerApplication (c) _Martin Fowler_](http://www.martinfowler.com/bliki/StranglerApplication.html)
